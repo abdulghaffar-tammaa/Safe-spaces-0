@@ -6,7 +6,7 @@
 - Semester: Ss 2021
 - Course: Research-Creation, Art Writing, and the Making of Podcasts
 
-## Text + Image
+
 ### Safe spaces 0
 
 ![image](Safe-spaces-0.jpg)
